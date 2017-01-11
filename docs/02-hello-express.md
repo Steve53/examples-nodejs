@@ -63,6 +63,12 @@ We call a.listen to start a local web server that listens on port 8080.
 
 ### References
 
+* [Prototypal Inheritance in JavaScript](http://javascript.crockford.com/prototypal.html)
+
+* [JavaScript Object Creation: Patterns and Practices](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
+
+* [Object Oriented JavaScript Pattern Comparison](https://john-dugan.com/object-oriented-javascript-pattern-comparison/)
+
 * [Stackoverflow, functions and objects](http://stackoverflow.com/questions/3449596/every-object-is-a-function-and-every-function-is-object-which-is-correct)
 
 * [Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
