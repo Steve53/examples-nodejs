@@ -63,6 +63,8 @@ We call a.listen to start a local web server that listens on port 8080.
 
 ### References
 
+* [Behavior Delegation](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch6.md#delegation-theory)
+
 * [Prototypal Inheritance in JavaScript](http://javascript.crockford.com/prototypal.html)
 
 * [JavaScript Object Creation: Patterns and Practices](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
